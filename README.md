@@ -1,6 +1,14 @@
-# plant_app
+# E-Nursery
 
-A new Flutter project.
+Welcome to the online nursery Application built using Flutter and Dart.
+
+<div style="display: flex; justify-content: space-around;">
+<img src="https://github.com/Ankzcoder/E-Nursery-/blob/master/final_UI_images/start_screen.png" alt="Index Page" width="200" height="400" style="margin-right: 20px;" >
+
+<img src="https://github.com/Ankzcoder/E-Nursery-/blob/master/final_UI_images/start_screen_1.png" alt="Question Page" width="200" height="400" style="margin-right: 20px;" >
+
+<img src="https://github.com/Ankzcoder/E-Nursery-/blob/master/final_UI_images/separate_item_screen.png" alt="Result Page" width="200" height="400">
+</div>
 
 ## Getting Started
 
